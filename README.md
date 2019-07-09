@@ -2,6 +2,8 @@
 
 Application that allows you to log your activities, tracks how much CO2 you save and compares it to you friends.
 
+![Image of statistics board](https://ibb.co/WzjpVwB)
+
 ## Installation instructions
 
 ##### Database setup:
