@@ -1,6 +1,6 @@
 # BGreen
 
-Application that allows you to log your activities, tracks how much CO2 you save and compares it to you friends'.
+Application that allows you to log your activities, tracks how much CO2 you save and compares it to you friends.
 
 ## Installation instructions
 
