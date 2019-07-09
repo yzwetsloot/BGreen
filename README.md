@@ -37,3 +37,6 @@ To run any of the commands above for specific part (client or server), switch to
 ##### Tests ensure 70% branch coverage. Run them using this command:
 
 1. 'mvn clean install'
+
+## Credits
+This was a collaborative effort by @radoslav55 @maxdijk @arseneki @ptemarvelde @liudasmika
