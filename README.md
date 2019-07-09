@@ -2,10 +2,6 @@
 
 Application that allows you to log your activities, tracks how much CO2 you save and compares it to you friends'.
 
-## Demo
-
-[![IMAGE ALT TEXT HERE](https://lh3.googleusercontent.com/PcjrymGMJmSYWtw22DU57JV5wa3QQQ__bKR_6vgKPTdWSEI5MR9S8a48Q2a7rHxDMNf7lt-Df1T1K2m2hFeF1yPigqK5zujtE9hZS74pU-ydkgM_O3LBxTGs3NUTF9Kt8KXjayAuEg=w600-h315-p-k-no)](https://photos.google.com/share/AF1QipMYJApd1qjWiTkRwDzW9Fm3ITjfdzs9FR76aocXBflN-sMW8E9khhG3PJPqQCQbnw/photo/AF1QipNqlKzRQgTulM41eiDMHU2Dn4KhK7UBM96HyUGZ?key=dmJUQ0d4ZE1yVWJLTHlwcUhzQWRLd1o3bFdBX2Rn)
-
 ## Installation instructions
 
 ##### Database setup:
