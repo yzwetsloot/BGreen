@@ -2,7 +2,12 @@
 
 Application that allows you to log your activities, tracks how much CO2 you save and compares it to you friends.
 
-![Image of statistics board](https://ibb.co/WzjpVwB)
+Dashboard                  |  Statistics overview
+:-------------------------:|:-------------------------:
+![Image of dashboard](https://user-images.githubusercontent.com/44974658/60890778-4df36b00-a25c-11e9-8fb3-9afbdf8168b6.png)  |  ![Image of statistics](https://user-images.githubusercontent.com/44974658/60890699-23091700-a25c-11e9-9875-58163725a319.png)
+
+
+
 
 ## Installation instructions
 
