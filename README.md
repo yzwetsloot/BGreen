@@ -39,4 +39,4 @@ To run any of the commands above for specific part (client or server), switch to
 1. 'mvn clean install'
 
 ## Credits
-This was a collaborative effort by @radoslav55 @maxdijk @arseneki @ptemarvelde @liudasmika
+This was a collaborative effort by @yzwetsloot, @radoslav55, @maxdijk, @arseneki, @ptemarvelde and @liudasmika
